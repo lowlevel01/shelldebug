@@ -9,5 +9,5 @@ This tool is inspired by https://github.com/OALabs/BlobRunner/ . I saw it being 
   ![run](images/run.png)
 
 - Attach x32/x64dbg to the created thread
-- Set a breakpoint at the entrypoint provided by the tool
+- Set a breakpoint at the entrypoint address provided by the tool
 - Press Enter
